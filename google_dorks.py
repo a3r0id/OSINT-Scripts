@@ -8,7 +8,7 @@
 #   python3 google_dorks.py
 
 # Description:
-#   This script will help you build a "google dorking" query.
+#   This script will help you build a "google dork" query with multiple operators.
 
 # Requirements:
 #   None
