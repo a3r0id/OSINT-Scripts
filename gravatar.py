@@ -43,7 +43,7 @@ while True:
     print ("[+] Entries Found: " + str(len(json['entry'])))
     
     for entry in json['entry']:
-        print ("[INPUT] Preferred Username: " + entry['preferredUsername'])
+        print ("[+] Preferred Username: " + entry['preferredUsername'])
         print ("[+] Legal Name: " + entry['name']['formatted'])
         print ("[+] Display Name: " + entry['displayName'])
         print ("[+] Profile URL: " + entry['profileUrl'])
